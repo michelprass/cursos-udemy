@@ -1,0 +1,70 @@
+body{
+				font-family: arial;
+				font-size: 16px;
+				text-align: justify;
+				padding: 1%;
+
+			}
+			nav{
+				text-align: center;
+			}
+			#atendimento{
+				text-align: right;
+			}
+			header{
+				text-align: center;
+			}
+			#img-topo{
+				background-color: #4169E1;
+				height: 200px;
+			}
+			h1{
+				text-align: center;
+				color: #4169E1;
+				font-size: 24px;
+			}
+			h2{
+				font-size: 22px;
+			}
+			#grade{
+				display: grid;
+				grid-template-areas: "imagem texto";
+			}
+			.imagem{
+				text-align: center;
+			}
+			.texto{
+				text-align: center;
+			}
+			#wagner{
+				border-radius: 50%;
+			}
+			#professor{
+				background-color: #4169E1;
+				text-align: center;
+				padding: 1%;
+			}
+			h4{
+				color: #fff;
+				font-size: 24px;
+			}
+			#logo-rodape{
+				border-radius: 10%;
+
+			}
+			footer{
+				background-color: #4169E1;
+				text-align: center;
+				color: #fff;
+				padding: 1%;
+			}
+			hr{
+				border-color: #4169E1;
+			}
+			a:link, a:visited, a:active{
+				text-decoration: none;
+			}
+			a:hover{
+				background-color: #4169E1;
+				color: #fff;
+			}
